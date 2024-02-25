@@ -1,1 +1,1 @@
-Hi, I'm Qwizx, I enjoy coding. I kinda know, C#, JavaScript and HTML. 
+i code in js and c# sometimes
