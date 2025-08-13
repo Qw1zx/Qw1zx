@@ -1,1 +1,1 @@
-i code in js and c# sometimes
+ex skid but i know what im doing
